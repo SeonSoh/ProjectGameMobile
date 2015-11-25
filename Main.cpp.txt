@@ -3,5 +3,4 @@ int main()
 {
 	float asdasd;
 	int 我好累了;
-	bool 你在干嘛; 
 }
