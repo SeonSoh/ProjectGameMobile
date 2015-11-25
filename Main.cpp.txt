@@ -1,4 +1,4 @@
-﻿#include<stdios.h>
+﻿
 int main()
 {
 	float asdasd;
