@@ -2,4 +2,5 @@
 int main()
 {
 	float asdasd;
+	int 我好累了;
 }
