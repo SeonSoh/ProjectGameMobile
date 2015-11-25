@@ -8,7 +8,7 @@ int main()
 	{}
 xinwei;
 heyheytaxiwhereareyougoing;
-once upon a time, there is a gay qi hong
+once upon a time, there is a gay qi hong & ghey chee guan
 
 小城故事多
 Small town story more
