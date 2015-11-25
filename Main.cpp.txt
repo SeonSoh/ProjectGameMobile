@@ -6,4 +6,5 @@ int main()
 
 	for(int 冲突=0; 冲突<10;冲突++ )
 	{}
+xinwei;
 }
