@@ -1,1 +1,11 @@
-﻿
+﻿#include<stdio.h>
+int main()
+{
+	float asdasd;
+	int 我好累了;
+
+	for(int 冲突=0; 冲突<10;冲突++ )
+	{}
+xinwei;
+heyheytaxiwhereareyougoing;
+}
